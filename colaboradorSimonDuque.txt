@@ -1,3 +1,4 @@
 Nombre: Simón Duque
 Usuario Github: SimonDuque
 Email: shd0001@alu.medac.es
+Nota práctica: 8

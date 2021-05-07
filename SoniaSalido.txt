@@ -1,0 +1,4 @@
+Nombre: Alfredo Valero
+Usuario Github: AlfredoValeroMedac
+Email: alfredo.valero@medac.es
+Nota merecida en esta práctica: 10
